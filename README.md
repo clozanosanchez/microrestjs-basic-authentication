@@ -1,4 +1,4 @@
 microrestjs-authentication
 ==========================
 
-Official user authentication service for microrest.js framework.
+Official authentication service for Microrestjs Framework.
