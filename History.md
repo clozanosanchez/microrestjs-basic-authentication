@@ -5,7 +5,7 @@ v0.5.0-beta
   * Includes package.json for managing its own dependencies.
   * Adopts ESLint.
 
-Compatible with Microrestjs v0.3.0-beta and upper versions.
+Compatible with [Microrestjs](https://github.com/clozanosanchez/microrestjs) v0.3.0-beta and upper versions.
 
 v0.3.0-beta
 ===========
